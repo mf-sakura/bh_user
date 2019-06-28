@@ -18,7 +18,7 @@ func TestNewDB(t *testing.T) {
 	}{
 		{
 			name:    "DBに繋がる事の確認",
-			args:    args{"root@/bh_hotel_test"},
+			args:    args{"root@/bh_user_test"},
 			wantErr: false,
 		},
 	}

@@ -55,14 +55,6 @@
   version = "v1.1.1"
 
 [[projects]]
-  branch = "master"
-  digest = "1:f9039451da554c56ea8b8a0cf879838d6d0a19e37f57df12256ce1c59b34a927"
-  name = "github.com/mf-sakura/bh_hotel"
-  packages = ["app/proto"]
-  pruneopts = "UT"
-  revision = "42d1e8dd9a36e93d6d1ef8a900f9fbe932682930"
-
-[[projects]]
   digest = "1:cf31692c14422fa27c83a05292eb5cbe0fb2775972e8f1f8446a71549bd8980b"
   name = "github.com/pkg/errors"
   packages = ["."]
@@ -200,7 +192,6 @@
     "github.com/jmoiron/sqlx",
     "github.com/kelseyhightower/envconfig",
     "github.com/lib/pq",
-    "github.com/mf-sakura/bh_hotel/app/proto",
     "github.com/pkg/errors",
     "google.golang.org/grpc",
     "google.golang.org/grpc/codes",
