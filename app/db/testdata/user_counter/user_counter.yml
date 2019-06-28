@@ -1,0 +1,4 @@
+- user_id: 1
+  reservation_count: 3
+- user_id: 2
+  reservation_count: 0
